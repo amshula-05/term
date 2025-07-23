@@ -144,11 +144,6 @@ Contributions are welcome! To get started:
 
 ---
 
-## 📋 License
-MIT (see LICENSE file)
-
----
-
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
